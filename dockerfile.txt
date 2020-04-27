@@ -1,6 +1,0 @@
-FROM ubuntu:latest
-
-MAINTAINER Shadik Lakhani
-
-RUN apt-get update
-
