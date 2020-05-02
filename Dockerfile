@@ -1,4 +1,4 @@
-FROM ubuntu 
+FROM ubuntu:latest
 MAINTAINER Shadik@gmail.com
 
 RUN apt-get update -y
